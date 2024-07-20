@@ -1,0 +1,7 @@
+@TutorialRestApi_HostAddress = http://localhost:5084
+
+GET {{TutorialRestApi_HostAddress}}/api/todoitems
+Accept: text/plain
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTk1OTI1MzAsImlzcyI6IlRlc3QuY29tIiwiYXVkIjoiVGVzdC5jb20ifQ.uwudxGq1ou3jugkiD1HNhQH5iuiVRUwNQTR9Xs2JkXk
+
+###
